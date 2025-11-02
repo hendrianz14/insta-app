@@ -1,0 +1,2 @@
+# Public asset placeholders
+# Add textual descriptions or import vector assets stored as text-based formats only.
