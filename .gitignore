@@ -1,9 +1,0 @@
-node_modules
-.next
-out
-build
-.env*
-!.env.example
-.DS_Store
-.vscode/
-coverage
